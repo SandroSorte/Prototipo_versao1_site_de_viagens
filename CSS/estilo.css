@@ -1,0 +1,100 @@
+/* Pagina Incicial */
+.mural{
+    width:410px;
+    height: 680px;
+    background-color:rgb(194, 226, 226);
+    border-radius:6px;
+    margin:auto;
+    margin-top:50px;
+    box-shadow: 10px 10px 12px rgba(0, 0, 0, 0.253);
+}
+
+.item_menu{
+    text-align: center;
+    color:white;
+    padding: 15px;
+    background-color: rgba(76, 76, 151, 0.76);
+    border-radius:4px;
+}
+.item_menu:hover{
+    color:rgb(56, 55, 55);
+    background-color: rgb(194, 226, 226);
+}
+#cabeçalho{
+    padding:60px;
+    color:white;
+}
+
+.oferta{
+    text-align: center;
+    line-height: 10px;
+}
+a:link:hover{
+    text-decoration: none;
+}
+
+.botao{
+    background-color: rgb(81, 81, 180);
+    padding: 12px;
+    border: solid black 2px;
+    border-radius: 5px;
+    color:white;
+    margin:20px 0px;
+}
+.botao:hover{
+    text-decoration:none;
+    background-color: rgb(189, 97, 97);
+}
+/* Destinos */
+
+.des_titulo{
+    text-align: center;
+    padding:50px;
+}
+
+.des_subt{
+    text-align: center;
+    padding:25px
+}
+
+.destino{
+    text-align: justify;
+    text-indent: 70px;
+}
+
+.linha{
+    margin-top:25px;
+}
+
+/* Contatos */
+
+#conta{
+    width:60%;
+    height: 750px;
+    margin:auto;
+    margin-top: 25px;
+    text-align:center;
+}
+
+.redes{
+    width:7%;
+    margin:20px;
+}
+
+/* Promoções */
+.mural_Pro{
+    width:420px;
+    background-color: rgb(139, 123, 155);
+    border-radius:6px;
+    margin:auto;
+    margin-top:30px;
+    box-shadow: 10px 10px 12px rgba(0, 0, 0, 0.253);
+
+}
+
+/*footter*/
+#rodape{
+    text-align: center;
+    padding:60px;
+    margin: auto;
+}
